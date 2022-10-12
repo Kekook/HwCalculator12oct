@@ -17,4 +17,6 @@
     <string name="key_plus">+</string>
     <string name="key_minus">-</string>
     <string name="key_equals">=</string>
+    <string name="edit_start">0</string>
+    <string name="start">0</string>
 </resources>
